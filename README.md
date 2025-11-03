@@ -25,7 +25,7 @@
 
 ## 🥅 Goals
 - Design a Guitar Hero-like game that works for actual guitars
-- Create smart home hardware using Raspberry Pi
+- Create an IOT plant care system with sensors and data logging
 - Explore Linux customization for personal and work use
 
 ---
