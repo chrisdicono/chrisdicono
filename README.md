@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/770518d6-484e-41cb-834b-a994092c019b" alt="profile" width="175" align="left"/>
 - 🎓 Second-year CS Student at Northeastern University<br><br>
 - ❤️ Passionate about: Full-stack development, Object-oriented design principles<br><br>
-- 🌱 Currently learning: Algorithms & Data Structures <br><br>
+- 🌱 Currently learning: Computer Systems, Theory of Computation <br><br>
 - 🤝 Looking to collaborate for: Open-source projects, Hackathons
 <br clear="all">
 
